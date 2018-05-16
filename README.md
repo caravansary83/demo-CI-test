@@ -7,6 +7,6 @@
 ### connect jenkins 2
 ### connect jenkins and gerrithub
 ### connect jenkins and gerrithub 2
-just for testing purpose
-just for testing purpose
-just for testing purpose
+### just for testing purpose
+### just for testing purpose
+### just for testing purpose
