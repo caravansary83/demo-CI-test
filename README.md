@@ -6,3 +6,4 @@
 ### Check adding
 ### connect jenkins 2
 ### connect jenkins and gerrithub
+### connect jenkins and gerrithub 2
