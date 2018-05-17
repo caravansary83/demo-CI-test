@@ -1,1 +1,3 @@
-{}
+{
+  "test_README.py::test_string_equal": true
+}
