@@ -4,4 +4,4 @@ def get_string():
     return(line)
 
 def test_string_equal():
-    assert(get_string() == "# demo-CI-test\n")
+    assert(get_string() == "## demo-CI-test\n")
