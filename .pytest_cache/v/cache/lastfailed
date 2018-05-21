@@ -1,3 +1,4 @@
 {
-  "test_README3.py::test_string_equal": true
+  "test_README3.py::test_string_equal": true, 
+  "test_README4.py::test_string_equal": true
 }

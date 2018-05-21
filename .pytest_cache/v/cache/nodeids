@@ -1,5 +1,6 @@
 [
   "test_README.py::test_string_equal", 
   "test_README2.py::test_string_equal", 
-  "test_README3.py::test_string_equal"
+  "test_README3.py::test_string_equal", 
+  "test_README4.py::test_string_equal"
 ]
